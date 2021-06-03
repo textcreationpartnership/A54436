@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John, the prisoner, to the risen seed of immortal love, most endeared salutation, &amp;c.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54436</idno><idno type="EEBO-CITATION">13640671</idno>
+  <idno type="VID">100893</idno>
+  <idno type="EEBO-PROQUEST">2248503403</idno>
+  
+            <idno type="STC">Wing P1623</idno>
+            <idno type="STC">ESTC R16942</idno>
+            <idno type="OCLC">13640671</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John, the prisoner, to the risen seed of immortal love, most endeared salutation, &amp;c.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Rome, Bedlam, 8, 11 m., 1660, John.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional literature, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100893:1"/>
+            <pb facs="tcp:100893:1"/>
+            <head>JOHN, THE PRISONER, TO THE RISEN SEED OF Immortal Love, MOST ENDEARED SALUTATION. <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as many Members fitly composed do make one compleat Body, and each Member of that living body in true sense▪ of the griefs and fellow-feeling of the infirmities and sufferings of each other, cannot but love its own flesh, to strengthen it with the true nourishment suitable to its own nature, and earnestly labour to keep every member and part thereof sound and whole, free from all bruises, hurts or wounds, and having not another a<g ref="char:EOLhyphen"/>bility in the pure nature of love unto its flesh of the same flesh, each member is given therefore to know, that whatsoever mind or spirit it is, which willingly bruiseth or hurteth the least or lowest member of the living body, is not of it, but degenerated and gone from the pure natural love thereof, into that which corrupteth in its own way, and cannot return to the first love again, to be united to the body without Repentance, and therefore it was gloriously given forth in the Law of God, say<g ref="char:EOLhyphen"/>ing, <hi>Thou shalt not make cuttings in thy own flesh,</hi> because from all eternity it was the mind of the Wise Creator that his sound and
+<pb n="2" facs="tcp:100893:2"/> glorious workmanship, should be preserved in a sound living and unbroken state of glory, to the praise of his Power that created it, to which purpose that the number of the children of the birth of God, and babes of the bosom of his pleasure, may so live in perfect love, keeping the unity of the spirit, as that their whole life may be as a continual full basket of the bread of blessing, and cup of overflowing consolation to each other, my spirit of meeknesse entreateth for a free hearing among all in the pure exercise of the living Word of exhortation unto all.</p>
+            <p>All dear Souls which do find in your selves an often feeling of temptation, of whatsoever kind or nature it be, Learn ye the knowledge of your own souls as they were created, in the day that they were made, to see the weaknesse and changable<g ref="char:EOLhyphen"/>nesse of them out of the Power that created them, and in this sense of understanding learn ye, and grow ye into the humble meek and lowly life of the <hi>LAMB which taketh away the sin of the World,</hi> and these perfect steps will lead your souls and minds unto the door of the pure and perfect fear of the Lord God, and the fear will shut you up into the holy house of the <hi>heavenly dread and trembling,</hi> where transgression cannot enter upon you, and keeping your constant watch to walk in this path, you will find this spirit of the perfect dread abundantly to fill your souls with the perfect fear, and as this spirit waxeth mighty and increaseth in you, so the spirit of temptation, will decrease, wax weak and feeble and depart from you, which your diligence in watchful<g ref="char:EOLhyphen"/>ness will throughly experience to your joyful growth in the saving power, which delivereth from all that which is able to give just occasion of grief unto any other member of the body, by all which a happy harvest of gladness comes to be gathered in your own souls, and you stand a sweet savour of joyous re<g ref="char:EOLhyphen"/>joycing unto all that you are joyned unto in the spirit of power and life.</p>
+            <p>And all pretious Plants of Gods <hi>glorious garden</hi> which are growing in prosperous places, every one in your proper degrees keep in the ground which is without offence, least in you should unhappily spring up <hi>a weed of the bitterness of discord,</hi> and that in the end bring forth a seeding seed of enmity, and so the whole ground become an over-spread plantation of cursedness, and
+<pb n="3" facs="tcp:100893:2"/> you utterly lose the benefit of the blessed fruits of salvation; to the purpose therefore of avoiding the course, and retaining and keeping the blessing of everlasting life, Learn ye <hi>the knowledge of the garden,</hi> and all things that grows and are therein, that never any true fruit which ripeneth therein, and is gathered <hi>in the day of the perfection</hi> thereof may in the least be a grief unto you, fear<g ref="char:EOLhyphen"/>ing least your grief at such a thing being the fruits of the labour of him that planted you, should become both a grief unto his soul who is Lord of the garden, and a sore sorrow unto your other fellow plants which bare the ripe fruits, and lastly oc<g ref="char:EOLhyphen"/>casion the <hi>gardener</hi> and Lord of the work to cut off (at least wise) your branches, if not to pluck you up by the roots, as the weeds of murmuration against him and his profitable plants. For O my dear and tender ones, known be it unto you that in the <hi>garden of Gods glory</hi> there are diversities of Herbs, Roses and pleasant flowers, yet all are of one Maker, Creator and Planter, yea also and all of one nature of sweetness and benefit of good<g ref="char:EOLhyphen"/>ness in their respective services and uses, and therefore if the <hi>white Rose</hi> doth not comprehend the fragrancie or sweet smel of the <hi>damask Rose,</hi> and if the <hi>Lilly</hi> hath an ornament of vertue which the <hi>Violet</hi> hath not, yet they ought all to be content with the vertue and excellency in which they are created, and so likewise all the other sweet herbs and flowers; For cast ye up every one your eye unto the Heavens, and behold the vineyard of the upper glory, which you may happily perceive and see among the <hi>Stars,</hi> which do greatly differ in glory, not in nature, because every one is of a surpassing brightness, but in degree and proportion, for that one is seen to be of brightness <hi>seven times</hi> more and greater then an other, and yet they keep their order according to the appointment of their Creator, and lo it is as a <hi>body of glory</hi> which jarreth not, for the Stars that are <hi>fixed</hi> are not grieved at the motion and course of the <hi>moving Stars,</hi> neither are the mov<g ref="char:EOLhyphen"/>ning in any thing grieved at the fixed, neither are the <hi>lesser in glory</hi> troubled at the brightness of the <hi>greater in glory,</hi> nor the greater at the lesser, for they all stand in the wisdome in which they were created, knowing that they are all created, and in that knowledge doth clearly perceive that there is as much cause for the greater in glory to grieve at the lesser, which cannot comprehend his glory, as there is for the lesser to grieve, being
+<pb n="4" facs="tcp:100893:3"/> not of ability to comprehend the glory of greater, but being in one nature of brightness and all perf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctly full, and abiding in one wisdome which created them all, they see and know in the wisdome of Creation that nothing of the pure brightness either in least or greatest degree can differ from it's own nature, because that would be contrary to the glorious wisdome which created them <hi>all glories</hi> in their resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve places and degrees, which created them not for <hi>grief</hi> but for <hi>joy in one another,</hi> which in this manner is most sweetly retained in, and concerning one another; that whereas the lesser is a <hi>glory,</hi> it is a joy to the greater that it so stands as a member of service in the heavenly <hi>body of glory,</hi> which puts back a river of joy into the <hi>lesser,</hi> in that the lesser is so owned and received in the unity with the greater, and wherein the lesser cannot comprehend the surpassing brightness of the glory of the greater, yet having unity with the <hi>power</hi> that created them both, hath a rich joy in the <hi>power</hi> that created the <hi>greater,</hi> and witnesseth to the glory of the brightness thereof, the which fellowship both in nature, testimony and joy, turns back a double proportion of joy into the bosom of the greater, in that it is so wisely and sweetly received and owned of the <hi>lesser,</hi> ac<g ref="char:EOLhyphen"/>cording to his measure, which is the blessing of joyous unity a<g ref="char:EOLhyphen"/>mong all.</p>
+            <p>Likewise my dearly beloved ones, know ye in an other thing the true order of the <hi>Heavens,</hi> that when the <hi>sore hail doth fall,</hi> it doth not fall against any part of the <hi>Heavens,</hi> but heavily down upon the <hi>earthly places,</hi> and when it <hi>thunders,</hi> it doth not thun<g ref="char:EOLhyphen"/>der against the <hi>Heavens</hi> or any thing therein, for such things would work against the nature of the wisdome and glory in Heaven, and the Kingdome would become <hi>divided in its self,</hi> therefore when it thunders, it is against <hi>Hell</hi> and all that is in the infernal places, for the breach of the power and Dominion of that Kingdome and enlargement of the glory of the heavenly, in the glorious light whereof ye may all learn how to walk in all your passages and footsteps, that ye may evermore be a continual gladness and not a grief to one another; But yet if all cannot so openly see the mind of my spirit (in what I have thus far ex<g ref="char:EOLhyphen"/>pressed) as it is my souls sincere desire to the Lord God Al<g ref="char:EOLhyphen"/>mighty that they may, I am very free in the same <hi>motion of life</hi> to tell you the Doctrine of <hi>John</hi> my predecessor and glorious
+<pb n="5" facs="tcp:100893:3"/> Apostle of God, who wrote to the convinced, which was the state of the quickned seed in the womb, and wrote also to <hi>babes,</hi> and likewise to <hi>young men,</hi> and in the same wisdome to <hi>strong men.</hi> And <hi>Paul</hi> gave <hi>herbs to the weak</hi> that could not eat fle<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and gave flesh which was the stronger meat unto the stronger men, and unto babes the milk was given, and taught them all not <hi>to judge one another in eating,</hi> keeping them all in the unity of that <hi>power</hi> which created all good food, and in the true fellowship of the glorious wisdome which feeds all with food suitable to their conditions, qualities, statures and strength, that the body might be perfectly known to be of the perfect God in whom is no rent, sect, nor division, nor the least discontent or murmuring; for which cause this <hi>I</hi> hold forth as doctrine to all the <hi>beloved children</hi> and <hi>babes of blessing,</hi> that is to say, to <hi>learn in the light</hi> their own states and conditions, that no ministration spoken among you <hi>in the life</hi> may at any time be a grief, but at all times a gladness unto you, so that if it comes to pass that a Minister of the body and blood of Christ freely <hi>breaks the bread and pours forth the wine</hi> into the cup of blessing in the Name of the Lord, for many to communicate in participation thereof, and if some there be that cannot drink <hi>wine</hi> but <hi>water,</hi> nor cannot drink <hi>blood</hi> but <hi>milk,</hi> nor cannot eat <hi>bread</hi> but <hi>pap,</hi> nor cannot eat <hi>flesh</hi> but <hi>sweet broth,</hi> such shall not grieve because they are not fed first, but wait in the joy of the others feeding, un<g ref="char:EOLhyphen"/>til the full table is spread for them that are the weaker also, and then when they feed on the weaker meats, the stronger men shall not grieve that the food was not proportionable in nature to their strength, but wait in the spirit of gladnesse, giving thanks that the weaker are also fed in due time; or if the wea<g ref="char:EOLhyphen"/>ker be first fed at the table of weaker things, the stronger ought not to grieve at that, but wait in their better ability of bear<g ref="char:EOLhyphen"/>ing, until their table is also spread, and every heart enriched with the mercies and blessings of the Eternal wisdom, who crea<g ref="char:EOLhyphen"/>teth meates and drinks times and seasons, and appointeth try<g ref="char:EOLhyphen"/>als unto all, that it may be known by every ones nature in the time of tryal, whether they are purely born of the <hi>seed royal</hi> yea or nay, by this one testimony of never murmuring, but in all things, times, states and conditions, giving thanks and yeilding pure praise to the God of life in the perfect spirit of
+<pb n="6" facs="tcp:100893:4"/> content, in which the un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill be everlastingly kept, and the glorious wisdome of the Lord <hi>God of power</hi> retained and kept as an endless glory to his infinite Name among all, even for ever and ever, Amen.</p>
+            <p>And now O ye <hi>shining Sons of Sion,</hi> and beautified virgin brides of <hi>Jerusalem,</hi> I cannot but double and redouble the endeared kisse of my Salutation unto you, rather such indeed is my souls greeting of you with one everlasting adhering kisse of my lips glued unto your lips, with the indisolvible glue of Gods grace, which can never more be broken assunder, and in this con<g ref="char:EOLhyphen"/>junction feel ye the earnings of my bowels entered within you, and there sence and savour my union and fellowship with you, who am a <hi>son of the seed of Eternal Love,</hi> and your tender Brother in the tribulations of the <hi>Lamb</hi> of God.</p>
+            <p>For all <hi>prisoners of Jesus,</hi> I put up my prayers to the <hi>power of life,</hi> and do desire to be remembred of them all in all their sup<g ref="char:EOLhyphen"/>plications to the Almighty One.</p>
+            <p>Finally the God of life save all his Seed every where, and gain himself the glory of the exaltation of his Kingdome in mighty power throughout the whole Earth, Amen.</p>
+            <epigraph>
+               <q>I am arising saith the God of Righteousness, and I will rent saith the Lord God of power, and as I live I will draw forth the captive by my own right hand saith the God of compassions and mercy, who is jea<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his great glory.</q>
+            </epigraph>
+            <closer>
+               <dateline>Written in <hi>Rome</hi> Prison of Mad-m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:100893:4"/>
+            <p>I <hi>JOHN,</hi> the Prisoner, am in the feeling of the Spirit of Life with you all the dear Prisoners of the Holy One, for his Holinesse sake, witnessing the life of the likenesse of your blessed Creator, and the Power which preserves you in the Image of him▪ against all that which is gone out from him into the rebellion and curse.</p>
+            <p>Children of holinesse, dwell in that which retains the know<g ref="char:EOLhyphen"/>ledge of your Father <hi>The Holy One,</hi> who is the everlasting pati<g ref="char:EOLhyphen"/>ence, and is called <hi>the Eternal content,</hi> so in the patience and content you retain the image and true <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ikenesse, and are cloa<g ref="char:EOLhyphen"/>thed with the garments of his own brightnesse, and hid under the power of the glory thereof, where the World in the rage, malice and enmity sees you not, being gone from the Holy Ones glorious likeness, into the darkness and blackness, brui<g ref="char:EOLhyphen"/>tishness and devilishness, dwelling <hi>in the cave of hell,</hi> near unto <hi>the prepared burnings and consumings▪</hi> Hold ye your joy in the peaceable life which hath no end, over them all feeling the power of your patience and content with you, which giveth victory and dominion over all <hi>the spirits of blacknesse and fire,</hi> which are appointed <hi>for fire,</hi> which will set you all free in the eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lasting liberty of the immortal Glory, in the triumph of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heavenly Host.</p>
+            <p>Again, I say I feel the dear prisoners Tryals, who am one of your own number in the everlasting patience and eternal content, which through death sets free in the Raign of eternal Life.</p>
+            <p>For you all I have drawn near unto the Almighty Power o<g ref="char:EOLhyphen"/>ver all, and he is moved, and <hi>will passe through the fires</hi> and the <hi>fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>untains,</hi> and call for the blood, and judge for the cries; <hi>O Israe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> stand still in the spirit of <hi>Trembling and Praises,</hi> keep<g ref="char:EOLhyphen"/>ing in the likeness of the <hi>Holy One,</hi> blessing him in his own, and he will certainly do good for you.</p>
+            <p>So rest in the quietnesse, for the quiet spirit stands in the true likeness of the <hi>Holy One,</hi> which is the blessed state, which is to increase over the face of the whole earth, for the com<g ref="char:EOLhyphen"/>pleating
+<pb n="8" facs="tcp:100893:5"/> of the restoration of all things according to the de<g ref="char:EOLhyphen"/>cree of <hi>AMEN.</hi>
+            </p>
+            <p>My bowels of the unspeakable Love is among you, dear Lambs feel it.</p>
+            <closer>
+               <dateline>
+                  <hi>ROME</hi> Bedlam. <date>8. 11. m. 1660.</date>
+               </dateline>
+               <signed>JOHN.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the sign of the <hi>Bull</hi> and <hi>mouth</hi> near <hi>Aldersgate,</hi> 1660.</p>
+            <pb facs="tcp:100893:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
